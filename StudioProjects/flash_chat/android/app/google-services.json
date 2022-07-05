@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418797449193",
+    "project_id": "mine-flashchat",
+    "storage_bucket": "mine-flashchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418797449193:android:2801a48e8b26b01340a578",
+        "android_client_info": {
+          "package_name": "com.ankithooda200720.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418797449193-eiepot7257o4ah1j3h6s4gn3gu10at4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJL4yQI_bmrZGzY5FIkeBBmhdTBKbYBcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418797449193-eiepot7257o4ah1j3h6s4gn3gu10at4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
